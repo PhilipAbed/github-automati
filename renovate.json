@@ -1,0 +1,17 @@
+{
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin"]
+    }
+  ],
+  "hostRules": [
+    {
+      "matchHost": "https://npm.pkg.github.com/",
+      "hostType": "npm",
+      "encrypted": {
+        "token": "TBD"
+      }
+    }
+  ],
+  "npmrc": "@philipabed:registry=https://npm.pkg.github.com/"
+}
