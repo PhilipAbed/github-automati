@@ -9,9 +9,9 @@
       "matchHost": "https://npm.pkg.github.com/",
       "hostType": "npm",
       "encrypted": {
-        "token": "wcFMA/xDdHCJBTolAQ/+MPXbyVG/f5Qp4k9wFBCpIU1Jor/CpNTNHOWorofkwTNJlGM1b2EKpf0zAMyRNGryo+ftNlBGutNmKrjbwo6sqrQeq60i6WzcxrRrjxLEct5DkG+TlPYRUBCYBcHxm1vWbhNk54dzMkrFWJ6qiIu8+H9sM+EmIuDj00HLmQn0PmBeZ4iw+Uf593SuSJp/bF3QDoT816LDDhMcnT27l4KLxwC8UK++kjTMaD4j8n92xslNL9Mz0OxeWgHe9zl9aLp44ksLHeWjYpXA3dsz8ZqZXNGNJco9iV5zQZ9VrBeawGtfopoaSoVmDThgmRFhj5YOz7xDvgokCthqXnBnKBw9KFf2DynLKswktR2BwtJrgNLy9L5yNjlmwXV7nWjTfjUJP9cbNHrFTVSC8XNqvH6wcLm4EI2ohkCltqgIBXwbC0pQ5MUa8GsSk8DPtRHac6kUgDVldaJzp9gdICLGSkMu5JVD47OZ/CGVvBgHqlWMehSy4hZuC0THcBLtPzighJCtxWFDhhSwh1swKJaVjTp8C35GGONRDTzRN3G5tlhI4Z+M+x9hahNizpS32gu2hCj6rm+wm0wrwv75exk76G9JbwFbjeaHdERNVK8ozGFOctqAcdz5vru+nXHHUINK3gZeumj399k5l/uxzuZ1DXwShG7MlKDjLwi/pHQSBGkcftrSeQH5AgUIaMwpTHHffRbn9hLBrCv5Z6F2NDc7kwEc9daHf1fwEj+owob9fUlqPxY/Gdp3s4rJbzVizuvA+Ooc6fqtzPe9d+MB6uVQQmjVNOPhZN3Rfd43GdX02zQGDIFF1C9nkhpA2JnzLh8dGMSc74Qv3yyyrWEMgN0"
-      }
+        "token": "wcFMA/xDdHCJBTolAQ/+K9bjbVutRaqLYGGsET2GxIDZKvAeBRffqFCLybNuoKNLYp3nZzQut1N81eMSGBtolgQbzqEFgWqPKdvPtkCOaZ91g4uAiX3mQeQ6WFw/YN3POhiB2bmzlVMAwH3pSbLlqYP03kvVWEfz6jz12WzfFCXzbMUJG/HEGbqqwLU5Eef4k1Apfpl7KD0GorXlobiHgRoaxoYSqGsifPDm9CR08hJtqzBoBd8EhpDP3dj6swZu6IZDak7laA8r/UxDuD+fMzGqWuMYA4c1bWh4wFCcqdZ6BOI13uZ1IaF5rDPq/bAAnYnHcjuiT6ShpKlrtmfZoGtjtyML+t0QSmsCKZiHIjRsxbSimn9IxEjEvk4gkeyqVinR9AZK0zNNkZLaNuyxem+CmcT+XxYD7eboR41UBLrLWqF4rJtdqfYzHJQT05MefrAks0vR//gem+vPzu8hZieoeuLQZKt8inBxZSBbnldMLc3UGQTUvfTPmg6rhzwYSaBD+CfFJ2ZD/YgX0LCBElfhjP9SAdqKT1gdz/ut07WPSJVhSKqraL8d8EhhyZUcYEHn2PFiZx3ZI8AkLCqMxpF4BPEcpWNmMWqG6oVCABFQW7AMuX0Z2kC5ShobULwHNlQ0uw3NVNfn7ynG+Awp8AbWYCsD7yr+MDlcr4WJnaM9BVoUKl7l1Poi1NPlVFfSeQGqrWedBB5rYQJ0FWuxOQ7mP1EbINJL0aCfNj2lTCxpp3TVWckbeGuBzX8XgiR+SwIOurKOwW+qNwYJQpDIWfnD2zeLxZmY4wDKHa/2mnBbstkcqlck7kz5ScMFdnKgwmNVa7+Grdm8RHTnXjpE+bOzmrG53T+GNPY"
+      },
+      "npmrc": "@PhilipAbed:registry=https://npm.pkg.github.com/"
     }
-  ],
-  "npmrc": "@PhilipAbed:registry=https://npm.pkg.github.com/"
+  ]
 }
