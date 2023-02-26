@@ -1,4 +1,5 @@
 {
+  "dependencyDashboard": true,
   "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch", "pin"]
@@ -14,5 +15,4 @@
       "npmrc": "@PhilipAbed:registry=https://npm.pkg.github.com/"
     }
   ]
-  
 }
