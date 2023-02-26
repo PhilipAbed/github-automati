@@ -8,7 +8,7 @@
     {
       "matchHost": "https://npm.pkg.github.com/",
       "hostType": "npm",
-      "encrypted": {
+      "encrypted": { 
         "token": "wcFMA/xDdHCJBTolAQ/9EbFUiUD3CDHZmX9etomZYMStxmD204SpiXjbmwcgSBRC8prvhyEAcMOOiK2lRxcZ1l6lukq93II6BEFi6tKEPASFp0KbXQSy+Lhyz4DZjgBu4l35Xa8MM8MUV3SMw6X/ajGKyMLoqPogBoRv9WjoyQCLaO4n16bwBC10HdajtaeJWy1mcHeBPGBX9dLFzL1FHJa1sROh/RLoQTH/yfX2eYjaWiVYI8FBhVGF7yNEUKhCZgwlQ9rkT5eNhTZUrWKtkBCH6LFNshl/R+l+6Sv0I5MDHjJVHY3GmW0PxEIRHbvO1n1Qa8sNeIsX/ljCqLtDWM++iRIk+UvcroDs14JZ8UDu6mD6nUOosTXIl0pB9vfqk4bvguJ9CfUO3YcvpVzhB2pIyTg+ze81xNaPlDMfVMbiZfpn5PTVLPNCvx4sTV0zRZ3Jj0J8Iizus+Ggznco/u5Cb/xPpRlrdhKD1TlGfbu8KTme9uixgRwg9RyyaSH+Kkn0OIOcImAhdaMjNcJqZUtlpbgv1sgWbdWcKMk0MWxp3FqGbe1k58QbXKbpowFTsbTc+vsXd5dcGz/1Z5mMH6SDOYGOJpfyZT5w1oOA2fwnutobN4REF3dVuYvT2V4fluvUDmhoOkvTrHVgdECK25kGuUZvbjKpMaqknRVViHL9UDaNM0RzwfTzC5RNtZ/SeQHe7fDHBrX3fBRYxRqDpH/VIaNYtTlW04VGcuDoGaMC0m6+/b2ffsLA6RKlPA4mpV0hRbc+kN85LPu/BO/KhFa4DPLH3bpXpMDz5wbIw/e3tUiHSrPMMXjul24JTfjSJzN+zUs4Xwmw9jnA4J8hHIKOxoUFxcmZFeQ"
       },
       "npmrc": "@PhilipAbed:registry=https://npm.pkg.github.com/"
